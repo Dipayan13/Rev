@@ -1,0 +1,94 @@
+h5{
+    font-family: Lato;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: #2C2C77;
+
+}
+h4{
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 150%;
+    color: #2C2C77;
+}
+h1.join{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 136.5%;
+    letter-spacing: -0.02em;
+}
+.bkr{
+    background-image: url(./resources/image-1.webp);
+}
+.crd{
+    background: #FFFFFF;
+    box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.09);
+    border-radius: 11px;
+}
+.crs2{
+    background: #FFFFFF;
+    box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.09);
+    border-radius: 19px;
+}
+.crdm{
+    background: #FFFFFF;
+    box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.09);
+    border-radius: 11px;
+}
+.reviews .hear{
+    background-image: url(./resources/Rectangle-20.webp);
+}
+.users{
+    background-image: url(./resources/Rectangle-648.webp);
+}
+.down h1 {
+    color: #FFFFFF;
+}
+.down a {
+    color: #FFFFFF;
+}
+.down{
+    height: 471px;
+    left: 0px;
+    top: 3000px;
+    background: #2C2C77;
+    mix-blend-mode: multiply;
+    background-image: url(./resources/investing-online-male-hand-monitoring-stock-exchange-data-smartphone-using-investment-app-analyzing-.webp);
+}
+p.p-alter{
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 150%;
+    color: #2C2C77;
+}
+p.cr-alt{
+    font-family: Lato;
+    width: 350px;
+    height: 224px;
+    left: 170px;
+    top: 474px;
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 180%;    
+    letter-spacing: 0.2px;
+    color: #414141;
+
+}
+p.desc{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #666666;
+}
