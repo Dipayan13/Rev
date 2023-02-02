@@ -7,12 +7,14 @@
     color: #2C2C77;
 
 }
+
 .hear h4{
     font-weight: 800;
     font-size: 18px;
     line-height: 150%;
     color: #2C2C77;
 }
+
 h1.join{
     font-family: 'Lato';
     font-style: normal;
@@ -21,51 +23,69 @@ h1.join{
     line-height: 136.5%;
     letter-spacing: -0.02em;
 }
+
+.join .highlight {
+    color: #6CCBFC;
+}
+
 .bkr{
     background-image: url(./resources/image-1.webp);
 }
+
 .crd-spacing{
     padding: 16px;
 }
+
 .crd{
     background: #FFFFFF;
     box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.09);
     border-radius: 11px;
 }
+
 .crs2{
     background: #FFFFFF;
     box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.09);
     border-radius: 19px;
 }
+
 .crdm{
     background: #FFFFFF;
     box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.09);
     border-radius: 11px;
 }
-.reviews .hear{
+
+.reviews {
     background-image: url(./resources/Rectangle-20.webp);
 }
+
 .users{
     background-image: url(./resources/Rectangle-648.webp);
 }
+
+/* Last section */
+
 .down h1 {
     color: #FFFFFF;
 }
+
 .down a {
     color: #FFFFFF;
 }
-.down{
-    padding: 64px;
+
+.down {
+    padding: 6% 0;
     background: #2C2C77;
     mix-blend-mode: multiply;
     background-image: url(./resources/investing-online-male-hand-monitoring-stock-exchange-data-smartphone-using-investment-app-analyzing-.webp);
 }
+
 p.p-alter{
     font-weight: 800;
     font-size: 18px;
     line-height: 150%;
     color: #2C2C77;
 }
+
 p.cr-alt{
     font-family: Lato;
     left: 170px;
@@ -80,6 +100,7 @@ p.cr-alt{
     color: #414141;
 
 }
+
 p.desc{
     font-family: 'Lato';
     font-style: normal;
@@ -90,8 +111,22 @@ p.desc{
     letter-spacing: 0.2px;
     color: #666666;
 }
-.hear{
-    padding-top: 32px;
-    padding-left: 8px;
-    padding-right: 8px;
+
+.down .st-overlay {
+    background: #2C2C77;
+    mix-blend-mode: multiply;
+}
+
+/* Media queries */
+
+@media (max-width: 575.98px) {
+    .cm-sec {
+        padding: 16% 0;
+    }
+}
+
+@media (min-width: 768px) {
+    .reviews .crd-spacing{
+        min-height: 377px !important;
+    }
 }
