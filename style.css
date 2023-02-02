@@ -1,5 +1,4 @@
-h5{
-    font-family: Lato;
+.reviews h5{
     font-size: 17px;
     font-weight: 700;
     line-height: 30px;
@@ -8,7 +7,7 @@ h5{
     color: #2C2C77;
 
 }
-h4{
+.hear h4{
     font-weight: 800;
     font-size: 18px;
     line-height: 150%;
@@ -24,6 +23,9 @@ h1.join{
 }
 .bkr{
     background-image: url(./resources/image-1.webp);
+}
+.crd-spacing{
+    padding: 16px;
 }
 .crd{
     background: #FFFFFF;
@@ -53,9 +55,7 @@ h1.join{
     color: #FFFFFF;
 }
 .down{
-    height: 471px;
-    left: 0px;
-    top: 3000px;
+    padding: 64px;
     background: #2C2C77;
     mix-blend-mode: multiply;
     background-image: url(./resources/investing-online-male-hand-monitoring-stock-exchange-data-smartphone-using-investment-app-analyzing-.webp);
@@ -68,8 +68,6 @@ p.p-alter{
 }
 p.cr-alt{
     font-family: Lato;
-    width: 350px;
-    height: 224px;
     left: 170px;
     top: 474px;
     
@@ -91,4 +89,9 @@ p.desc{
     text-align: center;
     letter-spacing: 0.2px;
     color: #666666;
+}
+.hear{
+    padding-top: 32px;
+    padding-left: 8px;
+    padding-right: 8px;
 }
