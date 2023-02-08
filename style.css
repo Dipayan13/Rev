@@ -115,9 +115,3 @@ p.desc{
         min-height: 377px !important;
     }
 }
-/* @media (min-height: 375px) 
-    {
-    .card-body{
-        text-align: left;
-    }
-    } */
