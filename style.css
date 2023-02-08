@@ -15,7 +15,10 @@
     color: #2C2C77;
 }
 
-
+.hear-style a{
+    text-decoration: none;
+    color:#2C2C77;
+}
 
 .down .highlight {
     color: #6CCBFC;
@@ -29,21 +32,19 @@
     padding: 16px;
 }
 
-.crd{
-    background: #FFFFFF;
-    box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.09);
-    border-radius: 11px;
-}
-
-.crs2{
+.crd {
     background: #FFFFFF;
     box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.09);
     border-radius: 19px;
 }
-
+video{
+    border-top-right-radius: 19px;
+    border-top-left-radius: 19px;
+}
 
 .reviews {
-    background-image: url(./resources/Rectangle-20.webp);
+    background-image: url(./resources/st-review-hero-img.webp);
+    background-repeat: no-repeat;
 }
 
 .users{
